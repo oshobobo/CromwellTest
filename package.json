@@ -1,0 +1,17 @@
+{
+  "script": {
+    "cypressReport": "npm test --  --record --key 1f61dbb9-900b-4c24-9bf6-13a4713f6ea1"
+  },
+  "name": "cypress-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
