@@ -19,8 +19,5 @@ Fixtures folder -> For test data
 Integration -> For main test file
 cypress.json -> Adjust configuration and add base url
 
-Bug Encountered
-Failed test when confirming users can view Out of Stock products.
-This failed because the In Stock products are also displayed row per page is set to 25 and the "Show Out of Stock" is checked.
-I also observed at least one Out of Stock product displayed when the row page is set to 50. 
+
 
